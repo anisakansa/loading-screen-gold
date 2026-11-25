@@ -1,0 +1,1 @@
+{"description":"Loading Screen Gold: one loading-screen tip in 200 characters, written by a program.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"loading-screen-gold","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
